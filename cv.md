@@ -20,4 +20,6 @@ I studied at the Odessa National Academy of Food Technologies at the Faculty of 
 	    return arr;
 	};	
  ```
- 1. passed courses on the codecademy "html" "css", Netology "the basics of html css", Prometheus "basics of Web UI development" ;
+ 1. passed courses on the [codecademy](https://www.codecademy.com/profiles/1123198759) "html" "css", [Netology](https://netology.ru/profile/6261251#/) "the basics of html css", [Prometheus](https://prometheus.org.ua/) "basics of Web UI development" ;
+ 1. Bachelor degree, specialist in information technology ;
+ 1. My English level is a A2, but i still work on it! ;
