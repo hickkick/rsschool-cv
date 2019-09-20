@@ -45,3 +45,11 @@ ol > li {
 	
 	padding: 10px;
 }
+
+/*==== Класс псевдораспорки ====*/
+.clearfix::after {
+  
+  	content: "";
+  	display: table;
+  	clear: both;
+}
