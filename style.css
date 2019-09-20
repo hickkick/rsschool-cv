@@ -22,3 +22,26 @@ header {
 	
 	padding: 10px 0px 0px 10px;
 }
+
+/*==================== main ==================*/
+h1 {
+	
+	font-weight: 900;
+	text-align: center;
+	color: #ffffff;
+}
+
+.avatar {
+	
+	float: right;
+}
+
+.info {
+	
+	padding-top: 30px;
+}
+
+ol > li {
+	
+	padding: 10px;
+}
