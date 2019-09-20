@@ -53,3 +53,16 @@ ol > li {
   	display: table;
   	clear: both;
 }
+
+/* ==== links =====*/
+a {
+	
+	text-decoration: none;
+	color: #8C5630;
+}
+
+a:hover {
+
+	text-decoration: none;
+	color: #ffffff;
+}
