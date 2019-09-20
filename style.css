@@ -6,3 +6,13 @@ body {
 	background-color: #7d9851;
 	
 }
+
+/*=============  block-wraper ===========*/
+.wraper {
+	
+	margin: 0 auto;
+	width: 62%;
+	height: 100%;
+	border: 10px solid black;
+	box-shadow: 0 0 16px 20px rgba(0,0,0,0.5);
+}
