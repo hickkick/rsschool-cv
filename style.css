@@ -1,0 +1,74 @@
+body {
+	
+	margin: 0;
+	font-family: "Roboto" , sans-serif, serif;
+	font-size: 18px;
+	background-color: #7d9851;
+}
+
+/*=============  block-wraper ===========*/
+.wraper {
+	
+	margin: 0 auto;
+	width: 62%;
+	height: 100%;
+	border: 10px solid black;
+	box-shadow: 0 0 16px 20px rgba(0,0,0,0.5);
+}
+
+/*====================    header   ==============*/
+header {
+	
+	padding: 10px 0px 0px 10px;
+}
+
+/*==================== main ==================*/
+h1 {
+	
+	font-weight: 900;
+	text-align: center;
+	color: #ffffff;
+}
+
+.avatar {
+	
+	float: right;
+}
+
+.info {
+	
+	padding-top: 30px;
+}
+
+ol > li {
+	
+	padding: 10px;
+}
+
+/*==== Класс псевдораспорки ====*/
+.clearfix::after {
+  
+  	content: "";
+  	display: table;
+  	clear: both;
+}
+
+/* ==== links =====*/
+a {
+	
+	text-decoration: none;
+	color: #8C5630;
+}
+
+a:hover {
+
+	text-decoration: none;
+	color: #ffffff;
+}
+
+/*==============  footer ========*/
+footer {
+	
+	text-align: center;
+	color: #ffffff;
+}
